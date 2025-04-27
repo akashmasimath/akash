@@ -1,4 +1,4 @@
-# akash
+# Akash Masimath
 Profile
 ### Hello there 👋
 
@@ -46,7 +46,7 @@ Show ❤️ By Starring My <a href='https://github.com/Sureshkrishh?tab=reposito
 
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/sureshkrishh/">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
+        <a href="https://www.linkedin.com/in/akash-masimath-321568233/?trk=opento_sprofile_details">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Akash Masimath linkedin" width="24px" />
     </a>
 </h4> 
