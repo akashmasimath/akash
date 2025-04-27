@@ -24,7 +24,7 @@ Profile
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>
     
 <br>
-<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="27" src="https://img.shields.io/badge/Akash Masimath's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p>
 </p>
 <p>&nbsp;
